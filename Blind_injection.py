@@ -1,8 +1,8 @@
 # Blind_injection
 # This is a simple python script for simple blind based injection%23
-# You have change some code it get the for your attacking website
+# You have to change some code to get data for your attacking website
 # for that you need to have knowlege to understand how this code is working
-# only then you can use it for your attack and retrieve data
+# only then you can use it for data exfiltration
 #
 # The site http://redtiger.labs.overthewire.org is used
 # You can simply do some changes in it get different values
